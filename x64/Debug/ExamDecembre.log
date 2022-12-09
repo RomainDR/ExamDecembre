@@ -1,0 +1,25 @@
+﻿  MainWIndow.cpp
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Singleton\Singleton.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Singleton\Singleton.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(20,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\ShowReservation\ShowReservation.h(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\ShowReservation\ShowReservation.h(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Main\MainWIndow.h(13,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Main\MainWIndow.h(115,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Main\MainWIndow.h(115,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  AddReservation.cpp
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Singleton\Singleton.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Singleton\Singleton.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(20,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  ExamDecembre.cpp
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Singleton\Singleton.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Singleton\Singleton.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(20,1): warning C4312: 'type cast': conversion from 'const int' to 'HMENU' of greater size
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Romain\source\repos\ExamDecembre\ExamDecembre\Window\Reservation\AddReservation\AddReservation.h(68,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Generating Code...
+  ExamDecembre.vcxproj -> C:\Users\Romain\source\repos\ExamDecembre\x64\Debug\ExamDecembre.exe
